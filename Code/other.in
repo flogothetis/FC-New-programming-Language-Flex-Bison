@@ -1,0 +1,149 @@
+static integer maria_mandalena,kio,lk,thelo_kai_allo;
+integer i:=5;
+real x :=30e-4;
+static integer maria_mandalena[2][6],kio:=567,lk:="Giorgos",thelo_kai_allo[6];
+static integer maria_mandalena,kio,lk,thelo_kai_allo;
+real y :=100.50, matrix[40][100],y_24:=30e-4;
+real spik[45]; integer sp[23][8], spk[45]; 
+character x;
+void foo (integer x,integer y)
+begin
+
+if(x>5)
+begin
+
+if(x>6)
+begin
+x :=30e-4;
+x:=(a + 1) mod cube() ;
+
+end
+
+else if (f=9)
+begin
+
+if(x=9)
+begin
+y :=30e-4;
+z :=a + b[1][k][(k+1)*2];
+
+
+end
+
+else 
+begin
+
+g:=67;
+z:=56;
+;
+;
+;
+;
+foo( i, y);
+	
+for(i:=0 ; i<45 ; i:=i+1 )
+begin 
+   while(i>7)
+   c:=c+1;
+end   
+
+end
+
+
+end
+
+
+end
+
+do
+begin 
+
+g:=67;
+z:=56;
+return x;
+continue;
+break;
+end 
+while(i>=78);
+
+
+
+
+
+end
+
+
+
+void foo456 ()
+begin
+
+if(x>5)
+begin
+
+if(x>6)
+begin
+x :=30e-4;
+x:=(a + 1) mod cube(cube(3)+3) ;
+integer ghl;
+real vb:=567;
+end
+
+else if (f=9)
+begin
+
+if(x=9)
+begin
+y :=30e-4;
+z :=a + b[1][k][(k+1)*2];
+
+
+end
+
+else 
+begin
+
+g:=67;
+z:=56;
+;
+;
+;
+;
+foo( i, y);
+	
+for(i:=0 ; i<45 ; i:=i+1 )
+begin 
+   while(i>7)
+   c:=c+1;
+end   
+
+end
+
+
+end
+
+
+end
+
+do
+begin 
+
+g:=67;
+z:=56;
+return x;
+continue;
+break;
+end 
+while(i>=78);
+
+
+
+
+
+end
+
+ character x;
+
+integer main ()
+begin 
+ character ty;
+ end

@@ -1,0 +1,24 @@
+
+integer main()
+begin
+    integer n, i;
+    real factorial := 1;
+
+    writeString("Enter an integer: ");
+    n:=readInteger();
+
+    // show error if the user enters a negative integer
+    if (n < 0)
+    writeString(" Error ");
+   else
+    begin 
+        for(i:=1; i<=n; i:=i+1)
+        begin
+         factorial := factorial*i;
+        end
+        writeString("Factorial is:");
+	writeInteger (factorial);
+   end
+
+    return 0;
+end

@@ -1,0 +1,67 @@
+/*
+
+
+*/
+
+
+//_______________________Fibonacci___________________
+ 
+void fibonacci ()
+begin
+	
+
+   integer n, first := 0, second := 1, next, c;
+ 
+   writeString("Enter the number of terms\n");
+   n:=readInteger();
+ 
+   
+ 
+   for ( c := 0 ; c < n ; c:=c+1 )
+   begin
+      if ( c <= 1 )
+         next := c;
+      else
+      begin
+         next := first + second;
+         first := second;
+         second := next;
+      end
+      writeInteger(next);
+   end
+ 
+   
+end
+//__________Fibonacci Recursively_______________
+
+integer Fibonacci(integer n)
+begin
+   if ( n = 0 )
+      return 0;
+   else if ( n = 1 )
+      return 1;
+   else
+      return ( Fibonacci(n-1) + Fibonacci(n-2) );
+end
+
+//______________MAin_____________________________
+
+integer main( )
+begin
+
+
+
+writeString("\n Fibonacci non-Recursively");
+fibonacci();
+
+
+
+ writeString("Enter a number to compute (Fibonacci Recursively)\n");
+  integer n,result;
+  n:=readInteger();
+  result:=Fibonacci(n);
+  writeInteger(result);
+
+
+return 0;
+end

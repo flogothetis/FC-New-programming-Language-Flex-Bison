@@ -1,0 +1,6 @@
+/* My first FC program - myprog.fc*/
+integer main()
+begin
+writeString("Hello World!\n");
+return 0;
+end
