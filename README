@@ -1,0 +1,18 @@
+There is exist a MakeFile ,to help you to test the lexer and the parser analyzer.
+
+1)Go to Folder 'Code'
+2)Open the file 'MakeFile'
+3)Compile every input file , with the simple command line ( make <tag_from_the_MakeFile>)
+
+ex1.  make helloworld
+ex2.  make primenumbers
+ex3.  make fibonacci 
+
+etc.
+
+Author: Logothetis Fragkoulis 
+AM : 2013030016
+Electrical and Computer Engineer
+Exercise  Computation Theory
+Subject : Built a new Programmaing Language
+
