@@ -1,4 +1,4 @@
-## Fc - New-Programming-Language-Flex-Bison
+## FC - New-Programming-Language-Flex-Bison
 
 The aim of this project is to build a new programming language, called FC (Functional C), using Flex and Bison Tools.
 The main idea is to create a lexer(flex (.l file)) and grammar(bison (.y file)) analyzer that will convert FC language to C.
