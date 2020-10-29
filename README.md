@@ -11,10 +11,11 @@ Inside The code directory there are some examples of the FC language (primenumbe
 1. Go to Folder 'Code'
 2. Compile every input file (FC code), with the simple command line ( make <tag_from_the_MakeFile>)
 
-ex1.  make helloworld
-ex2.  make primenumbers
-ex3.  make fibonacci 
-
+```
+make helloworld
+make primenumbers
+make fibonacci 
+```
 ****************************************
 Author: Logothetis Fragkoulis 
 Electrical and Computer Engineer
